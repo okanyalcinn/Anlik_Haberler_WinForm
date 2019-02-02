@@ -188,9 +188,9 @@
             this._lblKonuBaslik.AutoSize = true;
             this._lblKonuBaslik.Location = new System.Drawing.Point(165, 70);
             this._lblKonuBaslik.Name = "_lblKonuBaslik";
-            this._lblKonuBaslik.Size = new System.Drawing.Size(35, 13);
+            this._lblKonuBaslik.Size = new System.Drawing.Size(64, 13);
             this._lblKonuBaslik.TabIndex = 13;
-            this._lblKonuBaslik.Text = "label3";
+            this._lblKonuBaslik.Text = "Konu başlığı";
             // 
             // Form1
             // 
