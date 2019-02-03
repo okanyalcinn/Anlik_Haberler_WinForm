@@ -133,10 +133,10 @@ namespace Gundemdekiler_RSS_api
             HaberOkuyucu("https://www.cnnturk.com/feed/rss/all/news");
             KonuBasici("Son Dakika");
             _picIcon.SizeMode = PictureBoxSizeMode.StretchImage; //resim picturebox a göre boyutu ayarlansın
-            timer1.Interval = 1000;
-            timer1.Enabled = true;
-            timer2.Interval = 1200;
-            timer2.Enabled = true;
+            //timer1.Interval = 1000;
+            //timer1.Enabled = true;
+            //timer2.Interval = 1200;
+            //timer2.Enabled = true;
         }
         
         private void _lstBasliklar_SelectedIndexChanged(object sender, EventArgs e)

@@ -53,6 +53,7 @@
             // 
             this._ricTxt_KonuDetay.Location = new System.Drawing.Point(15, 465);
             this._ricTxt_KonuDetay.Name = "_ricTxt_KonuDetay";
+            this._ricTxt_KonuDetay.ReadOnly = true;
             this._ricTxt_KonuDetay.Size = new System.Drawing.Size(412, 163);
             this._ricTxt_KonuDetay.TabIndex = 12;
             this._ricTxt_KonuDetay.Text = "";
@@ -89,6 +90,7 @@
             // 
             this._rictxtBaslik.Location = new System.Drawing.Point(12, 12);
             this._rictxtBaslik.Name = "_rictxtBaslik";
+            this._rictxtBaslik.ReadOnly = true;
             this._rictxtBaslik.Size = new System.Drawing.Size(489, 69);
             this._rictxtBaslik.TabIndex = 17;
             this._rictxtBaslik.Text = "";

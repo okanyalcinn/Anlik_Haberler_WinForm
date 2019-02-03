@@ -151,7 +151,7 @@
             this._lstBasliklar.FormattingEnabled = true;
             this._lstBasliklar.Location = new System.Drawing.Point(168, 98);
             this._lstBasliklar.Name = "_lstBasliklar";
-            this._lstBasliklar.Size = new System.Drawing.Size(442, 446);
+            this._lstBasliklar.Size = new System.Drawing.Size(440, 433);
             this._lstBasliklar.TabIndex = 9;
             this._lstBasliklar.SelectedIndexChanged += new System.EventHandler(this._lstBasliklar_SelectedIndexChanged);
             // 
